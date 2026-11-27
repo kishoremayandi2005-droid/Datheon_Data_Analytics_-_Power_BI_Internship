@@ -1,58 +1,46 @@
-# Financial Statement Variance Analysis Using Power BI
+# Task 4 – Financial Statement Variance Analysis
 
 ## Project Overview
-This project analyzes financial performance using Microsoft Power BI. It helps understand sales, profit, discounts, and cost performance through interactive dashboards.
+Analyzed financial statement data using Power BI to evaluate business performance, financial trends, and key performance indicators (KPIs).
 
 ## Objectives
-- Analyze overall financial performance.
-- Compare sales and profit across countries.
-- Understand product-wise sales and discounts.
-- Track monthly sales and profit trends.
-- Identify important business insights.
+- Analyze financial performance and profitability.
+- Evaluate Gross Sales, Profit, Discounts, and Cost of Goods Sold (COGS).
+- Identify financial trends and business insights.
+- Develop an interactive financial dashboard.
+
+## Key Performance Indicators (KPIs)
+- Total Profit
+- Gross Sales
+- Total Discounts
+- Cost of Goods Sold (COGS)
+
+## Dashboard Features
+- Interactive KPI Cards.
+- Financial Performance Analysis.
+- Sales and Profit Visualization.
+- Discount Analysis.
+- Business Performance Insights.
 
 ## Tools & Technologies
 - Microsoft Power BI
-- Power Query
-- DAX
 - Microsoft Excel
+- DAX
+- Data Visualization
+- Data Analysis
 
-## Dashboard Features
-- Financial Overview
-- KPI Cards
-- Country-wise Sales Analysis
-- Product-wise Sales Analysis
-- Monthly Sales Trend
-- Monthly Profit Trend
-- Product-wise Discount Analysis
-- Country and Year Filters
-- Business Insights
+## Key Results
+- Profit: 17M
+- Gross Sales: 128M
+- Discounts: 9M
+- COGS: 102M
 
-## Key Performance Indicators
+## Project Deliverables
+- Power BI Dashboard (.pbix)
+- Dashboard Screenshots
+- Financial Analysis Report
 
-| Metric | Value |
-|---|---:|
-| Total Gross Sales | 128M |
-| Total Discounts | 9M |
-| Total COGS | 102M |
-| Total Profit | 17M |
-
-## Key Business Insights
-- Gross Sales reached 128M.
-- Discounts amounted to 9M.
-- Total COGS was 102M.
-- Total Profit generated was 17M.
-- Profit as a percentage of Gross Sales was approximately 13.3%.
-
-## Conclusion
-This project demonstrates how Power BI can transform financial data into interactive dashboards and meaningful business insights to support data-driven decisions.
-
-## Dashboard Screenshots
-
-### 1. Financial Overview
-![Financial Overview](Financial_Overview.png)
-
-### 2. Sales Trends
-![Sales Trends](Sales_Trends.png)
-
-### 3. Business Insights
-![Business Insights](Business_Insights.png)
+## Author
+**Kishore S**  
+B.E. Computer Science and Engineering  
+Aspiring Data Analyst
