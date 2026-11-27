@@ -1,30 +1,48 @@
-# Task 2 – Financial Statement Variance Analysis
+# Task 2 – Power BI Superstore Sales Dashboard
 
 ## Project Overview
-Analyzed financial data using Power BI to understand business performance and financial variations.
+Developed an interactive executive dashboard using Power BI to analyze Superstore sales, profitability, regional performance, and product trends.
 
 ## Objectives
-- Analyze financial performance.
-- Track Profit, Gross Sales, Discounts, and COGS.
-- Create interactive financial dashboards.
-- Identify key financial insights.
+- Transform raw sales data into an interactive dashboard.
+- Build a Star Schema data model.
+- Analyze sales and profit performance.
+- Track Year-over-Year (YoY) sales growth.
+- Identify high-performing regions and products.
+
+## Data Model
+- Fact Orders
+- Dim Customer
+- Dim Product
+- Dim Date
+
+## Key DAX Measures
+- Total Sales
+- Total Profit
+- Profit Margin %
+- YoY Sales Growth %
+
+## Dashboard Features
+- KPI Cards for Sales, Profit, and Orders.
+- Monthly Sales Trend Analysis.
+- Category and Sub-Category Treemap.
+- Regional Performance Analysis.
+- Dynamic Date and Region Slicers.
+- Product Profitability Analysis.
 
 ## Tools & Technologies
-- Power BI
+- Microsoft Power BI
 - DAX
 - Microsoft Excel
+- Data Modeling
+- Star Schema
 
-## Key Metrics
-- Profit: 17M
-- Gross Sales: 128M
-- Discounts: 9M
-- COGS: 102M
-
-## Features
-- Interactive KPI Cards
-- Financial Performance Dashboard
-- Data Visualization
-- Business Insights
+## Project Deliverables
+- Power BI Dashboard (.pbix)
+- High-Resolution PDF Report
+- Data Visualizations
 
 ## Author
-Kishore S
+**Kishore S**  
+B.E. Computer Science and Engineering  
+Aspiring Data Analyst
